@@ -2,8 +2,7 @@
 Matt Gracz's PMOK blog, chronicling his development of a computational solver of an arbitrary PMOK problem
 
 <div>
-<h1>
-Entry 1: 4/21/2023
+  <h1>Entry 1: 4/21/2023</h1>
 <p>
   This is the first entry in a hopefully short blog describing my already very interesting journey of attempting to create an efficient computational solver for PMOK (Paper Mario and the Origami King) problems.  What started as a programmer wanting to divie deeper into a beloved video game's world ended up with the computer scientist in me having to come out and get pretty creative.  And to be clear - I am writing this blog as I am developing the solution.  Here's where I am at as of 4/21/2023:
 </p>
@@ -20,5 +19,4 @@ Entry 1: 4/21/2023
       </ol>
     </li>
   </ol>
-</h1>
 </div>
