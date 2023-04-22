@@ -3,7 +3,7 @@ Matt Gracz's PMOK blog, chronicling his development of a computational solver of
 
 <div name = "entry1">
   <h2>Entry 1: 4/21/2023</h2>
-<p>
+<p style="font-size:10px;font-family:arial">
 This is the first entry in a hopefully short blog describing my already very interesting journey of attempting to create an efficient computational solver for PMOK (Paper Mario and the Origami King) problems.  What started as a programmer wanting to dive deeper into a beloved video game's world ended up with me apparently having to get pretty creative.  And to be clear - I am writing this blog as I am developing the solution.  Here's where I am at as of 4/21/2023:<br />
 I’ve tried solving this analytically for about 10 hours now, and I have come to believe that the problem space is just ever so slightly large enough that I myself with my particular math chops will never be confident in writing a provably perfect solving algorithm for an arbitrary PMOK problem.  Therefore, since we can’t have the “hard” solution, at least not provably as I claim, then we want “the hardest possible soft solution”, and unfortunately I think that means deferring to a machine learning model.  The analytical solutions I come up with keep forcing me to enjoy perplexing counter-examples where even patchwork meta-algorithms start falling apart.  At some point it has to be said that the size of the problem space and the “chaotic”/unstructured nature of the transition paths to solutions means that we need to fit a machine learning model tightly to this problem space to have any chance of getting a reliable.<br />
 Questions without (current) answers:
